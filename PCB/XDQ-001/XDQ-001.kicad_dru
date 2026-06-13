@@ -1,0 +1,9 @@
+(version 1)
+(rule QFN_clearance
+   (condition "A.insideCourtyard('U1')")
+   (constraint clearance (min 0.15mm))
+)
+(rule silkscreen_text
+   (constraint text_height (min 0.1mm))
+   (constraint text_thickness (min 0.03mm))
+)
