@@ -1,4 +1,4 @@
-26792641234221561
+26796204518005439
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -106861,6 +106861,20 @@ Through hole pin header THT 1x06 2.54mm single row
 0
 6
 6
+huellas_simplificadas
+SolderWirePad_1x05_SMD_1.5x3mm
+Wire Pad, Square, SMD Pad,  1.5mm x 3mm
+MeasurementPoint Square SMDPad 1.5mmx3mm 
+0
+5
+5
+huellas_simplificadas
+SolderWirePad_1x10_SMD_1.5x3mm
+Wire Pad, Square, SMD Pad,  1.5mm x 3mm
+MeasurementPoint Square SMDPad 1.5mmx3mm 
+0
+10
+10
 huellas_simplificadas
 TX850 Simplificado
 

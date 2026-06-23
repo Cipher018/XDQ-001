@@ -515,11 +515,11 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "C:/Users/cevac/XDQ-001/PCB/XDQ-001/Gerbers/",
       "pos_files": "C:/Users/cevac/XDQ-001/PCB/XDQ-001/Gerbers/CPL/",
       "specctra_dsn": "../../../Downloads/XDQ-001FCB/XDQ-001.dsn",
-      "step": "../../../Downloads/XDQ-001.step",
+      "step": "XDQ-001.step",
       "svg": "",
       "vrml": ""
     },
@@ -655,7 +655,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "page_layout_descr_file": "",
     "plot_directory": "../../../Downloads/",
     "space_save_all_events": true,
