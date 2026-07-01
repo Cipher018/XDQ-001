@@ -13913,7 +13913,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Molex-105017-0001"
+		(property "Footprint" "huellas_simplificadas:USB_Micro-B_GCT_USB3076-30-A"
 			(at 25.4 149.86 0)
 			(hide yes)
 			(show_name no)
